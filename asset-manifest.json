@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/reactpractice/static/css/main.48a27480.chunk.css",
-    "main.js": "/reactpractice/static/js/main.3882e325.chunk.js",
-    "main.js.map": "/reactpractice/static/js/main.3882e325.chunk.js.map",
-    "runtime-main.js": "/reactpractice/static/js/runtime-main.c7df61a1.js",
-    "runtime-main.js.map": "/reactpractice/static/js/runtime-main.c7df61a1.js.map",
-    "static/js/2.3e23ad5d.chunk.js": "/reactpractice/static/js/2.3e23ad5d.chunk.js",
-    "static/js/2.3e23ad5d.chunk.js.map": "/reactpractice/static/js/2.3e23ad5d.chunk.js.map",
-    "static/js/3.2b7827ca.chunk.js": "/reactpractice/static/js/3.2b7827ca.chunk.js",
-    "static/js/3.2b7827ca.chunk.js.map": "/reactpractice/static/js/3.2b7827ca.chunk.js.map",
-    "index.html": "/reactpractice/index.html",
-    "static/css/main.48a27480.chunk.css.map": "/reactpractice/static/css/main.48a27480.chunk.css.map",
-    "static/js/2.3e23ad5d.chunk.js.LICENSE.txt": "/reactpractice/static/js/2.3e23ad5d.chunk.js.LICENSE.txt"
+    "main.css": "/reactpractice/newapp/static/css/main.48a27480.chunk.css",
+    "main.js": "/reactpractice/newapp/static/js/main.3882e325.chunk.js",
+    "main.js.map": "/reactpractice/newapp/static/js/main.3882e325.chunk.js.map",
+    "runtime-main.js": "/reactpractice/newapp/static/js/runtime-main.66e5679a.js",
+    "runtime-main.js.map": "/reactpractice/newapp/static/js/runtime-main.66e5679a.js.map",
+    "static/js/2.3e23ad5d.chunk.js": "/reactpractice/newapp/static/js/2.3e23ad5d.chunk.js",
+    "static/js/2.3e23ad5d.chunk.js.map": "/reactpractice/newapp/static/js/2.3e23ad5d.chunk.js.map",
+    "static/js/3.2b7827ca.chunk.js": "/reactpractice/newapp/static/js/3.2b7827ca.chunk.js",
+    "static/js/3.2b7827ca.chunk.js.map": "/reactpractice/newapp/static/js/3.2b7827ca.chunk.js.map",
+    "index.html": "/reactpractice/newapp/index.html",
+    "static/css/main.48a27480.chunk.css.map": "/reactpractice/newapp/static/css/main.48a27480.chunk.css.map",
+    "static/js/2.3e23ad5d.chunk.js.LICENSE.txt": "/reactpractice/newapp/static/js/2.3e23ad5d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c7df61a1.js",
+    "static/js/runtime-main.66e5679a.js",
     "static/js/2.3e23ad5d.chunk.js",
     "static/css/main.48a27480.chunk.css",
     "static/js/main.3882e325.chunk.js"
